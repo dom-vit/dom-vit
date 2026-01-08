@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack | Estudante de Engenharia de Software
 
-Sou um apaixonado por tecnologia, focado no ecossistema **Python/Django**, com experiência prática em análise de requisitos, modelagem de dados (PostgreSQL) e integração de APIs. Atualmente, estou a expandir os meus conhecimentos para **IA Generativa**, **React** e **Node.js**.
+Sou um apaixonado por tecnologia, focado no ecossistema **Python/Django**, com experiência prática em análise de requisitos, modelagem de dados (PostgreSQL) e integração de APIs.
 
 ---
 
