@@ -25,6 +25,6 @@ Sou um apaixonado por tecnologia, focado no ecossistema **Python/Django**, com e
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dom-vit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom-vit&layout=compact&theme=radical&hide=html,css" alt="Linguagens mais usadas" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dom_vit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dom_vit&layout=compact&theme=radical&hide=html,css" alt="Linguagens mais usadas" height="195px" />
 </div>
