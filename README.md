@@ -14,7 +14,7 @@ Sou um apaixonado por tecnologia, focado no ecossistema **Python/Django**, com e
 
 ### 🛠 Tecnologias e Ferramentas
 - **Linguagens:** Python, JavaScript (ES6+), SQL (PostgreSQL), HTML5, CSS3.
-- **Frameworks:** Django, Bootstrap (Disponibilidade para React/Node.js).
+- **Frameworks:** Django, Bootstrap (Disponibilidade para React, Node.js, Flutter e Next.js).
 - **DevOps/Nuvem:** Git, GitLab, AWS (Noções), Docker (Noções).
 - **Metodologias:** Scrum, Kanban, Engenharia de Requisitos.
 
