@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Domício Vitor! 👋
 
-<!--
-**dom-vit/dom-vit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Full Stack | Estudante de Engenharia de Software
 
-Here are some ideas to get you started:
+Sou um apaixonado por tecnologia, focado no ecossistema **Python/Django**, com experiência prática em análise de requisitos, modelagem de dados (PostgreSQL) e integração de APIs. Atualmente, estou a expandir os meus conhecimentos para **IA Generativa**, **React** e **Node.js**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mim
+- 🎓 Atualmente a cursar **Engenharia de Software** no IFG.
+- 💻 Estagiário de Desenvolvimento Web no **IF Goiano**, atuando em sistemas críticos e legados.
+- 🧠 Forte interesse em **P&D (Pesquisa e Desenvolvimento)** e soluções de Inteligência Artificial.
+- ⚡ Experiência prévia com atendimento e resolução de problemas complexos (ex-Santander).
+
+### 🛠 Tecnologias e Ferramentas
+- **Linguagens:** Python, JavaScript (ES6+), SQL (PostgreSQL), HTML5, CSS3.
+- **Frameworks:** Django, Bootstrap (Disponibilidade para React/Node.js).
+- **DevOps/Nuvem:** Git, GitLab, AWS (S3, EC2), Docker (Noções).
+- **Metodologias:** Scrum, Kanban, Engenharia de Requisitos.
+
+### 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/domicio-vitor)
+- [Email](mailto:domiciovitor@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=domiciovitor&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domiciovitor&layout=compact&theme=radical" alt="Top Languages" />
+</div>
